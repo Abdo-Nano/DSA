@@ -1,0 +1,3 @@
+/mnt/D83867A338677F7E/programming/DS/queue/build/CMakeFiles/rebuild_cache.dir
+/mnt/D83867A338677F7E/programming/DS/queue/build/CMakeFiles/edit_cache.dir
+/mnt/D83867A338677F7E/programming/DS/queue/build/CMakeFiles/queue.dir
