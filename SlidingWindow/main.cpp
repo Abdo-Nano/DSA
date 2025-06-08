@@ -140,7 +140,6 @@ int longestSubString(std::string s) {
     return maxLength;
 }
 
-
 int main() {
     return 0;
 }
